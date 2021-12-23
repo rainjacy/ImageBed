@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T06:32:10.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.3" etag="IZwcdlQnvZqlKAN-wsOi" type="github"><diagram id="IkY5Uq8e-zbAPrKe2rpH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-23T06:35:39.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="PxkX04fRSDtiXJbao_DE" version="16.0.3" type="github">
+  <diagram id="IkY5Uq8e-zbAPrKe2rpH" name="第 1 页">
+    <mxGraphModel dx="1002" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-1" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="680" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-2" value="Actor 1" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-1">
+          <mxGeometry y="40" width="680" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-3" value="Phase 1" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-2">
+          <mxGeometry x="40" width="213" height="187" as="geometry">
+            <mxRectangle width="213" height="187" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-14" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-3">
+          <mxGeometry x="40" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-4" value="Phase 2" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-2">
+          <mxGeometry x="253" width="214" height="187" as="geometry">
+            <mxRectangle width="214" height="187" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-5" value="Phase 3" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-2">
+          <mxGeometry x="467" width="213" height="187" as="geometry">
+            <mxRectangle width="213" height="187" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-6" value="Actor 2" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-1">
+          <mxGeometry y="227" width="680" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-7" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-6">
+          <mxGeometry x="40" width="213" height="186" as="geometry">
+            <mxRectangle width="213" height="186" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-8" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-6">
+          <mxGeometry x="253" width="214" height="186" as="geometry">
+            <mxRectangle width="214" height="186" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-9" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-6">
+          <mxGeometry x="467" width="213" height="186" as="geometry">
+            <mxRectangle width="213" height="186" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-10" value="Actor 3" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-1">
+          <mxGeometry y="413" width="680" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-11" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-10">
+          <mxGeometry x="40" width="213" height="187" as="geometry">
+            <mxRectangle width="213" height="187" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-12" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-10">
+          <mxGeometry x="253" width="214" height="187" as="geometry">
+            <mxRectangle width="214" height="187" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-13" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="qr-zPf-FsgWdGWrcpPPm-10">
+          <mxGeometry x="467" width="213" height="187" as="geometry">
+            <mxRectangle width="213" height="187" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-15" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-zPf-FsgWdGWrcpPPm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qr-zPf-FsgWdGWrcpPPm-14" target="qr-zPf-FsgWdGWrcpPPm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
